@@ -1,0 +1,18 @@
+{
+  "name": "@flipeador/js-dictionary",
+  "description": "Javascript Map with temporary elements and additional utility methods.",
+  "version": "1.0.0",
+  "author": "Flipeador (https://github.com/flipeador)",
+  "repository": "github:flipeador/js-dictionary",
+  "license": "Apache-2.0",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "globals": "^13.20.0"
+  }
+}
